@@ -1,0 +1,4 @@
+module.exports = {
+  secret:
+    process.env.JWT_SECRET || "4$Jv8!xZ2pQw@rHds1h2ueh13enT@F*aM4V!mY$zPj3^kG",
+};
