@@ -1,2 +1,2 @@
-#Oribs
+# Oribs
 🌍 Orbis is your go-to app for tracking and reducing your carbon footprint! By leveraging satellite data, Orbis tailors personalized eco-challenges based on your location and lifestyle. 🌿 Every action you take in the app affects your own virtual planet, which grows greener as you complete sustainable tasks. 🌱 Earn points, learn about sustainability, and transform your habits to make a real impact. 🌎✨ Join Orbis and start your journey towards a more sustainable future today! 💚🌟
